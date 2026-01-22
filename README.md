@@ -13,17 +13,14 @@
 **Решение:**
 
 ![home-dir](screenshots/hom-dir.png)
-
 *домашняя директория*
 
 
 ![rsync](screenshots/rsync.png)
-
 *команда rsync*
 
 
 ![backup-dir](screenshots/backup.png)
-
 *директория /tmp/backup*
 
 # Задание 2
@@ -39,13 +36,23 @@
 **Решение**
 
 ![script-backup](screenshots/script-backup.png)
-
 *скрипт backup*
 
 ![crontab-l](screenshots/crontab-l.png)
-
 *настройки crontab*
 
 ![backup-succes](screenshots/backup-succes.png)
-
 *результат и лог*
+
+# Задание 3
+
+Задание 3*
+ 1. Настройте ограничение на используемую пропускную способность rsync до 1 Мбит/c
+ 2. Проверьте настройку, синхронизируя большой файл между двумя серверами
+
+ На проверку направьте команду и результат ее выполнения в виде скриншота
+
+**Решение**
+
+![ssh-backup](screenshots/ssh-backup.png)
+*backup на внешний сервер с ограничением скорости*
