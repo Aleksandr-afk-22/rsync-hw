@@ -56,3 +56,6 @@
 
 ![ssh-backup](screenshots/ssh-backup.png)
 *backup на внешний сервер с ограничением скорости*
+
+![backup-dir](screenshots/backup-dir.png)
+*backup директория*
